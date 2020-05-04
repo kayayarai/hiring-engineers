@@ -41,6 +41,6 @@ With Doggy commands, you can also:
 * Open a copy of a dashboard in the Datadog UI editor so you can WYSIWYG edit it, and save those changes to the Doggy code, _not_ the Datadog live version. From there you can push to Datadog or discard your changes.
 * Mute and unmute monitors.
 
-To get started managing your dashboard configurations, check out [Doggy on Github](https://github.com/chargify/doggy). Big thanks to [Vlad Gorodetsky](https://github.com/bai) at Shopify for this useful tool.
+To get started managing your dashboard configurations, check out [Doggy on Github](https://github.com/chargify/doggy). Big thanks to [Vlad Gorodetsky](https://github.com/bai) at [Shopify](https://www.shopify.ca/) for this useful tool.
 
 If you have a tool, integration, or client library you've created that uses Datadog API or DogStatsD to improve how you get things done, consider sharing it with the world. Email us at [code@datadoghq.com](mailto:code@datadoghq.com) to tell us about it.
